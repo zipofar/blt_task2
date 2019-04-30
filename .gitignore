@@ -1,0 +1,7 @@
+*.swp
+*.swo
+.idea
+*.log
+
+node_modules
+public
